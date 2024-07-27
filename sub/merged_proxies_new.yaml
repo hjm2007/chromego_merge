@@ -3024,7 +3024,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: China_Guangzhou_vmess_1144
+  name: China_Shenzhen_vmess_1144
   network: ws
   port: 46001
   server: mmhk01.micloud.buzz
@@ -3175,7 +3175,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: China_Shenzhen_vmess_1156
+  name: China_Guangzhou_vmess_1156
   network: ws
   port: '46001'
   server: mmhk01.micloud.buzz
@@ -3552,7 +3552,7 @@ proxy-groups:
   - None_None_vmess_1141
   - United States_None_vmess_1142
   - China_None_vmess_1143
-  - China_Guangzhou_vmess_1144
+  - China_Shenzhen_vmess_1144
   - China_None_trojan_1145
   - None_None_vmess_1146
   - Hong Kong_Central_trojan_1147
@@ -3564,7 +3564,7 @@ proxy-groups:
   - None_None_vmess_1153
   - None_None_vmess_1154
   - China_None_vmess_1155
-  - China_Shenzhen_vmess_1156
+  - China_Guangzhou_vmess_1156
   - China_None_trojan_1157
   - China_None_trojan_1158
   - Sweden_Stockholm_trojan_1159
@@ -3787,7 +3787,7 @@ proxy-groups:
   - None_None_vmess_1141
   - United States_None_vmess_1142
   - China_None_vmess_1143
-  - China_Guangzhou_vmess_1144
+  - China_Shenzhen_vmess_1144
   - China_None_trojan_1145
   - None_None_vmess_1146
   - Hong Kong_Central_trojan_1147
@@ -3799,7 +3799,7 @@ proxy-groups:
   - None_None_vmess_1153
   - None_None_vmess_1154
   - China_None_vmess_1155
-  - China_Shenzhen_vmess_1156
+  - China_Guangzhou_vmess_1156
   - China_None_trojan_1157
   - China_None_trojan_1158
   - Sweden_Stockholm_trojan_1159
